@@ -32,4 +32,10 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelchavez19&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+## ⚡ My Projects:
+
+### [Minimalist Clone of Google Drive](https://youtu.be/cA-ixmOaHZY?feature=shared)
+
+[![FastAPI, Vue, SASS](https://skillicons.dev/icons?i=fastapi,vue,sass)](https://skillicons.dev)
+
 </div>
