@@ -21,7 +21,7 @@
 
 [![Astro, React, Vue](https://skillicons.dev/icons?i=astro,react,vue)](https://skillicons.dev)
 
-[![Django, FastAPI, Nuxt](https://skillicons.dev/icons?i=django,fastapi,nuxt)](https://skillicons.dev)
+[![Django, FastAPI, Nuxt](https://skillicons.dev/icons?i=django,fastapi,nuxt,nest)](https://skillicons.dev)
 
 [![Git, GitHub, Figma](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
@@ -34,8 +34,28 @@
 
 ## ⚡ My Projects:
 
-### [Minimalist Clone of Google Drive](https://youtu.be/cA-ixmOaHZY?feature=shared)
+### [Play Room](https://github.com/angelchavez19/play-room)
+
+PlayRoom is a collection of mini-games, designed for fun with friends.
+
+[![Vue, SASS, Nest](https://skillicons.dev/icons?i=vue,sass,nest)](https://skillicons.dev)
+
+### [Minimalist Clone of Google Drive](https://github.com/angelchavez19/google-drive-clone-v1)
+
+A minimalist clone of Google Drive
 
 [![FastAPI, Vue, SASS](https://skillicons.dev/icons?i=fastapi,vue,sass)](https://skillicons.dev)
+
+### [URL Shortener](https://github.com/angelchavez19/url-shortener)
+
+This is the implementation of a URL shortening service.
+
+[![Nest](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+
+### [Portfolio](https://github.com/angelchavez19/portfolio)
+
+My portfolio
+
+[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 </div>
