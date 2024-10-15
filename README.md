@@ -51,7 +51,7 @@ A minimalist clone of Google Drive
 
 This is the implementation of a URL shortening service.
 
-[![Nest](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+[![HTML, CSS, JavaScript, Nest](https://skillicons.dev/icons?i=html,css,js,nest)](https://skillicons.dev)
 
 ### [Portfolio](https://github.com/angelchavez19/portfolio)
 
