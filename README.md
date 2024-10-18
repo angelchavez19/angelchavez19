@@ -35,12 +35,6 @@
 
 ## ⚡ My Projects:
 
-### [Play Room](https://github.com/angelchavez19/play-room)
-
-PlayRoom is a collection of mini-games, designed for fun with friends.
-
-[![Vue, SASS, Nest](https://skillicons.dev/icons?i=vue,sass,nest)](https://skillicons.dev)
-
 ### [Minimalist Clone of Google Drive](https://github.com/angelchavez19/google-drive-clone-v1)
 
 A minimalist clone of Google Drive
