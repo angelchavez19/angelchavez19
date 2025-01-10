@@ -35,6 +35,12 @@
 
 ## ⚡ My Projects:
 
+### [Nest Auth Template](https://github.com/angelchavez19/nest-auth-template)
+
+This is a template for authentication in Nest.
+
+[![Nest](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+
 ### [Minimalist Clone of Google Drive](https://github.com/angelchavez19/google-drive-clone-v1)
 
 A minimalist clone of Google Drive
