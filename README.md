@@ -1,12 +1,26 @@
 <div align="center">
 
-[![I'm Angel Chávez!](assets/animation.gif)](<[https://github.com/kshyun28](https://github.com/angelchavez19)>)
+[![I'm Angel Chávez!](assets/animation.gif)](https://github.com/angelchavez19)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/infoangelchavez) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angel-chávez) &nbsp;
-[![My Website](assets/favicon.png)](https://angelchavezportfolio.vercel.app/) &nbsp;
+<p>
+    <a href="https://www.youtube.com/@caminoAsenior">
+        <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" alt="YouTube" width="48px" height="48px">
+    </a> &nbsp;
+    <a href="https://www.linkedin.com/in/angel-chávez">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    </a> &nbsp;
+    <a href="https://angelchavezportfolio.vercel.app/">
+        <img src="assets/favicon.png" alt="My Website">
+    </a> &nbsp;
+</p>
 
 </div>
+
+
+
+
+
+
 
 <div align="center">
 
@@ -28,9 +42,14 @@
 
 ## 🏆 My Stats:
 
-<p>
+<p align="center">
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=angelchavez19&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelchavez19&layout=compact&theme=dark" />&nbsp;&nbsp;
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=angelchavez19&layout=compact&theme=dark">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=angelchavez19&theme=tokyonight"/>
 </p>
 
 ## ⚡ My Projects:
