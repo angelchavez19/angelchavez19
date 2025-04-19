@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/angel-chávez">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a> &nbsp;
-    <a href="https://angelchavezportfolio.vercel.app/">
+    <a href="https://angelchavez-portfolio.vercel.app/">
         <img src="assets/favicon.png" alt="My Website">
     </a> &nbsp;
 </p>
