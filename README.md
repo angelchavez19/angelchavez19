@@ -54,11 +54,17 @@
 
 ## ⚡ My Projects:
 
+### [Nuxt Auth Template](https://github.com/angelchavez19/nuxt-auth-template)
+
+This is a template for authentication in Nuxt.
+
+[![Nest](https://skillicons.dev/icons?i=nuxt)](https://skillicons.dev)
+
 ### [Nest Auth Template](https://github.com/angelchavez19/nest-auth-template)
 
 This is a template for authentication in Nest.
 
-[![Nest](https://skillicons.dev/icons?i=nest)](https://skillicons.dev)
+[![Nest](https://skillicons.dev/icons?i=nest,prisma)](https://skillicons.dev)
 
 ### [Minimalist Clone of Google Drive](https://github.com/angelchavez19/google-drive-clone-v1)
 
@@ -66,13 +72,7 @@ A minimalist clone of Google Drive
 
 [![FastAPI, Vue, SASS](https://skillicons.dev/icons?i=fastapi,vue,sass)](https://skillicons.dev)
 
-### [URL Shortener](https://github.com/angelchavez19/url-shortener)
-
-This is the implementation of a URL shortening service.
-
-[![HTML, CSS, JavaScript, Nest](https://skillicons.dev/icons?i=html,css,js,nest)](https://skillicons.dev)
-
-### [Portfolio](https://github.com/angelchavez19/portfolio)
+### [Portfolio](https://github.com/angelchavez19/portfolio-freelance)
 
 My portfolio
 
