@@ -72,10 +72,4 @@ A minimalist clone of Google Drive
 
 [![FastAPI, Vue, SASS](https://skillicons.dev/icons?i=fastapi,vue,sass)](https://skillicons.dev)
 
-### [Portfolio](https://github.com/angelchavez19/portfolio-freelance)
-
-My portfolio
-
-[![Astro](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
-
 </div>
